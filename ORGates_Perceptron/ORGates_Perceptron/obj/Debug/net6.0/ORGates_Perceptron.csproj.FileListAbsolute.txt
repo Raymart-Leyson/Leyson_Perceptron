@@ -1,0 +1,15 @@
+C:\Users\rayma\Leyson_Perceptron\ORGates_Perceptron\ORGates_Perceptron\bin\Debug\net6.0\ORGates_Perceptron.exe
+C:\Users\rayma\Leyson_Perceptron\ORGates_Perceptron\ORGates_Perceptron\bin\Debug\net6.0\ORGates_Perceptron.deps.json
+C:\Users\rayma\Leyson_Perceptron\ORGates_Perceptron\ORGates_Perceptron\bin\Debug\net6.0\ORGates_Perceptron.runtimeconfig.json
+C:\Users\rayma\Leyson_Perceptron\ORGates_Perceptron\ORGates_Perceptron\bin\Debug\net6.0\ORGates_Perceptron.dll
+C:\Users\rayma\Leyson_Perceptron\ORGates_Perceptron\ORGates_Perceptron\bin\Debug\net6.0\ORGates_Perceptron.pdb
+C:\Users\rayma\Leyson_Perceptron\ORGates_Perceptron\ORGates_Perceptron\obj\Debug\net6.0\ORGates_Perceptron.csproj.AssemblyReference.cache
+C:\Users\rayma\Leyson_Perceptron\ORGates_Perceptron\ORGates_Perceptron\obj\Debug\net6.0\ORGates_Perceptron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayma\Leyson_Perceptron\ORGates_Perceptron\ORGates_Perceptron\obj\Debug\net6.0\ORGates_Perceptron.AssemblyInfoInputs.cache
+C:\Users\rayma\Leyson_Perceptron\ORGates_Perceptron\ORGates_Perceptron\obj\Debug\net6.0\ORGates_Perceptron.AssemblyInfo.cs
+C:\Users\rayma\Leyson_Perceptron\ORGates_Perceptron\ORGates_Perceptron\obj\Debug\net6.0\ORGates_Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\rayma\Leyson_Perceptron\ORGates_Perceptron\ORGates_Perceptron\obj\Debug\net6.0\ORGates_Perceptron.dll
+C:\Users\rayma\Leyson_Perceptron\ORGates_Perceptron\ORGates_Perceptron\obj\Debug\net6.0\refint\ORGates_Perceptron.dll
+C:\Users\rayma\Leyson_Perceptron\ORGates_Perceptron\ORGates_Perceptron\obj\Debug\net6.0\ORGates_Perceptron.pdb
+C:\Users\rayma\Leyson_Perceptron\ORGates_Perceptron\ORGates_Perceptron\obj\Debug\net6.0\ORGates_Perceptron.genruntimeconfig.cache
+C:\Users\rayma\Leyson_Perceptron\ORGates_Perceptron\ORGates_Perceptron\obj\Debug\net6.0\ref\ORGates_Perceptron.dll
